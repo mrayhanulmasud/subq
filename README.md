@@ -1,0 +1,1 @@
+Run [subliminal_quant_v2.ipynb](https://github.com/mrayhanulmasud/subq/blob/main/subliminal_quant_v2.ipynb) to reproduce the experiments. The notebook uses the other scripts in this repository and follows the subliminal learning recipe from [liminal-training](https://github.com/BrendanGho/liminal-training).
